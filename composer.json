@@ -1,0 +1,12 @@
+{
+    "name": "softerize/table-list",
+    "description": "Customizable data tables for Laravel with pagination, search and buttons.",
+    "authors": [
+        {
+            "name": "Oscar Dias",
+            "email": "oscar.dias@softerize.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
